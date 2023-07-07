@@ -16,3 +16,6 @@ Il s'est ensuite agi d'appliquer des traitements de filtres numériques au signa
 
 ## Librairies utilisées
 numpy - scipy - matplotlib
+
+## Présentation complète
+![Rendu TIPE](https://github.com/lcharles038/photoplethysmography/blob/main/cardiogramme.png?raw=true)
