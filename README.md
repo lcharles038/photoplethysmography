@@ -18,4 +18,4 @@ Il s'est ensuite agi d'appliquer des traitements de filtres numériques au signa
 numpy - scipy - matplotlib
 
 ## Présentation complète
-![Rendu TIPE](https://github.com/lcharles038/photoplethysmography/blob/main/cardiogramme.png?raw=true)
+![Présentation complète](https://github.com/lcharles038/photoplethysmography/blob/main/TIPE%20-%20final.pdf)
