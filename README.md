@@ -12,7 +12,7 @@ On obtenait alors un signal analogique de cardiogramme, numérisé via une carte
 Il s'est ensuite agi d'appliquer des traitements de filtres numériques au signal brut pour là encore, filtrer et amplifier celui-ci afin de retrouver le cardiogramme analogique
 
 ## Illustration du résultat
-![Image cardiogramme](https://github.com/lcharles038/photoplethysmography/main/cardiogramme.png?raw=true)
+![Image cardiogramme](https://github.com/lcharles038/photoplethysmography/blob/main/cardiogramme.png?raw=true)
 
 ## Librairies utilisées
 numpy - scipy - matplotlib
